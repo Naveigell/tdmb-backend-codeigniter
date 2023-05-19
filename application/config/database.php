@@ -79,6 +79,11 @@ $db['default'] = array(
 	'username' => 'root',
 	'password' => '',
 	'database' => 'tdmb',
+// I don't want to save this credential because the previous programmer using stup*d framework to developing this project
+//	'hostname' => 'localhost',
+//	'username' => 'ayuy2573_tdmb',
+//	'password' => 'QNSuuFm1AX.s',
+//	'database' => 'ayuy2573_tdmb',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
